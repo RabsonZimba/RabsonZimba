@@ -2,7 +2,6 @@
 
 - I'm @RabsonZimba
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning MSc Data Science at University of Essex 
 - 👯 I’m looking to collaborate on Python, R-Programming and SQL   
 
 
